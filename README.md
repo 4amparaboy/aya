@@ -1,5 +1,3 @@
-![Ayanami](https://telegra.ph/file/820216b57a11a1f895c9c.jpg)
-
 # Paraboy
 A personal torrent leech bot
 
@@ -7,7 +5,7 @@ Fork of [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bo
 
 
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/mobilegendeng447/meg/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/4amparaboy/aya"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Deploying on Heroku
 - Run the script to generate token file(token.pickle) for Google Drive:
